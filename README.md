@@ -41,11 +41,11 @@ import termios, sys, os, tty
 from numpy import pi
 ```
 
-![Turtle](Turtle)
 
 ![Graph](Graph_py)
 
 
+![Turtle](Turtle)
 
 Se implementan las siguientes operaciones:
 

@@ -41,9 +41,9 @@ import termios, sys, os, tty
 from numpy import pi
 ```
 
-![Turtle](Turtle.png)
+![Turtle](Turtle)
 
-![Graph](Graph_py.png)
+![Graph](Graph_py)
 
 
 

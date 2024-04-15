@@ -7,10 +7,27 @@ Bryan Steven Pinilla Castro
 En este laboratorio se utilizó ROS en el que se hizo uso de la herramienta turtlesim para comprender los conceptos básicos de la programcación de robots en este ambiente de programación.  
 
 
-## MATLAB
-Se realizaron dos ejercicios, uno en Matlab y otro en Python, 
 
-## PYTHON
+## MATLAB : Conexion ROS a Matlab.
+En una terminal inicializar ROS.
+
+```
+roscore
+```
+En otra se incia el nodo *turtlesim*.
+
+```
+rosrun turtlesim turtlesim_node
+```
+
+En una tercera de ejecuta el archivo *myTeleopKey.py* agregando la ruta. Tomando como ejemplo.
+
+```
+/bin/python3/home/"suusuario"/catkin_ws/src/myTeleopKey.py
+```
+
+
+## PYTHON :  Direccion de turtlesim por teclado.
 
 En una terminal inicializar ROS.
 

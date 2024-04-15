@@ -12,18 +12,22 @@ Se realizaron dos ejercicios, uno en Matlab y otro en Python,
 
 ## PYTHON
 
-Como primer paso se incializa ROS en una terminal.
+En una terminal inicializar ROS.
 
 ```
 roscore
 ```
-Y de manera paralela se incia el nodo *turtlesim* en otra terminal.
+En otra se incia el nodo *turtlesim*.
 
 ```
 rosrun turtlesim turtlesim_node
 ```
 
+En una tercera de ejecuta el archivo *myTeleopKey.py* agregando la ruta. Tomando como ejemplo.
 
+```
+/bin/python3/home/"suusuario"/catkin_ws/src/myTeleopKey.py
+```
 
 Librerias utilizadas en python
 

@@ -41,6 +41,10 @@ import termios, sys, os, tty
 from numpy import pi
 ```
 
+![Turtle](Turtle.png)
+
+![Graph](Graph_py.png)
+
 
 
 Se implementan las siguientes operaciones:

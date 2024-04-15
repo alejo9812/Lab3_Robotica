@@ -20,7 +20,7 @@ En otra se incia el nodo *turtlesim*.
 rosrun turtlesim turtlesim_node
 ```
 
-Abriendo el programa Matlab *Matlab.mlx* se ejecuta el siguiente script.
+Abriendo en Matlab  se ejecuta el siguiente script *Matlab.mlx*.
 
 ```
 Matlab.mlx

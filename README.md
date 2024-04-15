@@ -20,10 +20,10 @@ En otra se incia el nodo *turtlesim*.
 rosrun turtlesim turtlesim_node
 ```
 
-En una tercera de ejecuta el archivo *myTeleopKey.py* agregando la ruta. Tomando como ejemplo.
+Abriendo el programa Matlab *Matlab.mlx* se ejecuta el siguiente script.
 
 ```
-/bin/python3/home/"suusuario"/catkin_ws/src/myTeleopKey.py
+Matlab.mlx
 ```
 
 
